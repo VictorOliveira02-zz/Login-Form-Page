@@ -33,4 +33,4 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 🎁 Expressões de gratidão
 
-* Agradecimento ao [Girl Coding](https://github.com/giovannamoeller). 
+* Agradecimento á [Girl Coding](https://github.com/giovannamoeller). 
